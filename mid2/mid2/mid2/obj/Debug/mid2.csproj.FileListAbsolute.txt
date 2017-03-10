@@ -1,0 +1,6 @@
+C:\Users\Айжан\Desktop\MID\mid2\mid2\mid2\bin\Debug\mid2.exe.config
+C:\Users\Айжан\Desktop\MID\mid2\mid2\mid2\bin\Debug\mid2.exe
+C:\Users\Айжан\Desktop\MID\mid2\mid2\mid2\bin\Debug\mid2.pdb
+C:\Users\Айжан\Desktop\MID\mid2\mid2\mid2\obj\Debug\mid2.csprojResolveAssemblyReference.cache
+C:\Users\Айжан\Desktop\MID\mid2\mid2\mid2\obj\Debug\mid2.exe
+C:\Users\Айжан\Desktop\MID\mid2\mid2\mid2\obj\Debug\mid2.pdb
